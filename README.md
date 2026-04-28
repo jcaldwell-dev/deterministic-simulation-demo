@@ -27,7 +27,7 @@ mkdir build
 cd build
 cmake ..
 cmake --build .
-
+```
 ## Example Output
 
 Step 0 | Attacker Position: 0.05 | Target Position: 0.975
