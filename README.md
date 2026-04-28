@@ -28,20 +28,21 @@ cd build
 cmake ..
 cmake --build .
 ```
-## Example Output
 
+## Example Output
+```
 Step 0 | Attacker Position: 0.05 | Target Position: 0.975
 Step 1 | Attacker Position: 0.1 | Target Position: 0.95
 ...
 Step 19 | Attacker Position: 1 | Target Position: 0.5
-
----
+```
 
 ### Event Log
-
+```
 Step 10: Attacker interacted with Target
 Step 11: Attacker interacted with Target
 Step 12: Attacker interacted with Target
 Step 13: Attacker interacted with Target
 Step 14: Attacker interacted with Target
 Step 15: Attacker interacted with Target
+```
