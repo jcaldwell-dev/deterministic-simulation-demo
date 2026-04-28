@@ -38,6 +38,7 @@ Step 19 | Attacker Position: 1 | Target Position: 0.5
 ---
 
 ### Event Log
+
 Step 10: Attacker interacted with Target
 Step 11: Attacker interacted with Target
 Step 12: Attacker interacted with Target
