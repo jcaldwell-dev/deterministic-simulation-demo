@@ -6,7 +6,7 @@ A small C++ console demo showing fixed-timestep simulation, deterministic update
 
 ## Purpose
 
-This project demonstrates core concepts used in simulation software: reproducible execution, controlled state updates, and traceable event output.
+Deterministic simulation loop with fixed-timestep updates, controlled execution order, and structured event logging for reproducible behavior.
 
 ## Key Concepts
 
